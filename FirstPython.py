@@ -1,3 +1,4 @@
 def myFunction():
-  print("Akash")
+  for i in range(10):
+    print("Akash")
 myFunction()
