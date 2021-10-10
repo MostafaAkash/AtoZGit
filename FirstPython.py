@@ -3,7 +3,6 @@ def myFunction():
     print("Akash")
    print("26")
   
-  a = []
   for i in range(5):
     a.append(i)
     
