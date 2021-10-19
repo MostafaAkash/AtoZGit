@@ -14,6 +14,10 @@ def myFunction():
   fromFPB = {}
   p = {}
   x = {}
-   
+  
 myFunction()
+
+def anotherFunction():
+  for i in range(10):
+    print(i)
 
